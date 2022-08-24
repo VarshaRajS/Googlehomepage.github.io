@@ -1,0 +1,54 @@
+.google{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    margin-top: 140px;
+}
+.searchbar{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid rgb(205, 203, 203);
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 25px;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    margin-top: 5px;
+    cursor: pointer;
+    width: 40%;
+    height: 10px;
+}
+.searchbar:hover{
+    box-shadow:  0 10px 20px -8px rgb(177, 176, 176);
+}
+.searchicon{
+    width: 40px;
+}
+.voiceicon{
+    width: 35px;
+}
+button{
+    margin: auto;
+    margin-top: 40px;
+    display: inline;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+    background-color: rgb(249, 244, 244) ;
+}
+.gs{
+    margin-left: 830px;
+}
+.gs:hover{
+    border: 1px solid rgb(188, 185, 185);
+}
+.flt{
+    margin-left: 30px;
+}
+.flt:hover{
+    border: 1px solid rgb(188, 185, 185);
+}
