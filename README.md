@@ -1,8 +1,8 @@
 # Cloned google homepage
 
 ## Built With
-  --HTML
-  --CSS
+  - HTML
+  - CSS
   
 ## Link
   https://varsharajs.github.io/Googlehomepage.github.io/
