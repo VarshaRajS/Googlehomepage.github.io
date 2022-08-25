@@ -19,7 +19,7 @@
     margin-top: 5px;
     cursor: pointer;
     width: 40%;
-    height: 10px;
+    height: 3px;
 }
 .searchbar:hover{
     box-shadow:  0 10px 20px -8px rgb(177, 176, 176);
