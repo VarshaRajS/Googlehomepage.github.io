@@ -1,2 +1,8 @@
 # Cloned google homepage
-  --link ( https://varsharajs.github.io/Googlehomepage.github.io/ )
+
+## Built With
+  --HTML
+  --CSS
+  
+## Link
+  https://varsharajs.github.io/Googlehomepage.github.io/
